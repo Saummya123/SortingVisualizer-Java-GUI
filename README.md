@@ -22,13 +22,19 @@ Sorting Visualizer is a Java-based application designed to help users understand
 - Java Development Kit (JDK) 8 or higher installed.
 - IDE like IntelliJ IDEA, Eclipse, or NetBeans (optional but recommended).
 
+
+--
 ### Setup Instructions
 1. Clone the repository:
-   ```bash
    git clone https://github.com/Saummya123/SortingVisualizer-Java-GUI.git
-2.Navigate to the project directory: cd SortingVisualizer-Java-GUI
-3.Open the project in your favorite IDE.
-4.Locate and run the Main class to start the application.
+
+2. Navigate to the project directory:
+   cd SortingVisualizer-Java-GUI
+
+3. Open the project in your favorite IDE.
+
+4. Locate and run the Main class to start the application.
+
 ## Usage
 - Select a sorting algorithm from the dropdown menu.
 - Adjust the speed slider to control animation speed.
