@@ -30,13 +30,14 @@ Sorting Visualizer is a Java-based application designed to help users understand
 3.Open the project in your favorite IDE.
 4.Locate and run the Main class to start the application.
 ## Usage
-Select a sorting algorithm from the dropdown menu.
-Adjust the speed slider to control animation speed.
-Set the array size if needed.
-Click the Start button to begin visualizing the sorting process.
-Use Pause and Reset buttons as necessary.
-# 🛠️ How It Works
-The program generates a random array of integers.
-Upon starting, the selected sorting algorithm sorts the array.
-The GUI animates the process by displaying bars representing array elements.
-Each swap or comparison is visually represented in real-time.
+- Select a sorting algorithm from the dropdown menu.
+- Adjust the speed slider to control animation speed.
+- Set the array size if needed.
+- Click the **Start** button to begin visualizing the sorting process.
+- Use **Pause** and **Reset** buttons as necessary.
+
+## 🛠️ How It Works
+- The program generates a random array of integers.
+- Upon starting, the selected sorting algorithm sorts the array.
+- The GUI animates the process by displaying bars representing array elements.
+- Each swap or comparison is visually represented in real-time.
