@@ -47,3 +47,14 @@ Sorting Visualizer is a Java-based application designed to help users understand
 - Upon starting, the selected sorting algorithm sorts the array.
 - The GUI animates the process by displaying bars representing array elements.
 - Each swap or comparison is visually represented in real-time.
+
+## 🤝 Contribution
+Contributions are welcome! To contribute:
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Commit your changes.
+4. Open a pull request with a clear description.
+
+## 📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
